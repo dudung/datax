@@ -17,7 +17,7 @@ var soybean = {
 	variety: "Anjasmoro",
 	environment: "screen house",
 	place: "Jatinangor, Indonesia",
-	date: "2019",
+	date: "10 Dec 2018",
 	age: {
 		unit: "week",
 		value: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
